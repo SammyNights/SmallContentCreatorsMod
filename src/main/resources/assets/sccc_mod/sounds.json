@@ -1,0 +1,12 @@
+{
+  "feck_borgrave_mod": {
+    "category": "record",
+    "subtitle": "subtitles.feck_borgrave_mod",
+    "sounds": [
+      {
+        "name": "sccc_mod:feck_borgrave_-_mod-shorter_ver__original",
+        "stream": true
+      }
+    ]
+  }
+}

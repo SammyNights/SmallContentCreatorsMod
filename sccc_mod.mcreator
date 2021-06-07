@@ -1,0 +1,74 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "FeckBorgrave",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "feck_borgrave"
+    },
+    {
+      "name": "FeckBorgraveMod",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "feck_borgrave_mod"
+    },
+    {
+      "name": "RickyAstley",
+      "type": "painting",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ricky_astley"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "feck_borgrave_mod",
+      "files": [
+        "feck_borgrave_-_mod-shorter_ver__original"
+      ],
+      "category": "record",
+      "subtitle": "Feck Borgrave - Mod"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.sccc_mod.feck_borgrave_mod.desc": "Feck Borgrave - Mod",
+      "subtitles.feck_borgrave_mod": "Feck Borgrave - Mod",
+      "itemGroup.tabfeck_borgrave": "Feck Borgrave",
+      "item.sccc_mod.feck_borgrave_mod": "Feck Borgrave Mod"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "sccc_mod",
+    "modName": "SCCC Mod",
+    "version": "1.0.0",
+    "author": "gizmo, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.scccmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

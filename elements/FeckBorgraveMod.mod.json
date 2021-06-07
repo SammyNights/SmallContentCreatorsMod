@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "fbmod",
+    "name": "Feck Borgrave Mod",
+    "description": "Feck Borgrave - Mod",
+    "creativeTab": {
+      "value": "CUSTOM:FeckBorgrave"
+    },
+    "music": {
+      "value": "CUSTOM:feck_borgrave_mod"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}
